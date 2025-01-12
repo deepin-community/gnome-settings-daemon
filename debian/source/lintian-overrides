@@ -1,0 +1,1 @@
+dh-exec-subst-unknown-variable env:deb_udevdir [debian/*]
